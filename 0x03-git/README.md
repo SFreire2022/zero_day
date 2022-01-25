@@ -1,0 +1,1 @@
+# This is the first directory 0x03-git for the first git project
